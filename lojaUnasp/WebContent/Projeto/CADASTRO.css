@@ -1,0 +1,27 @@
+body {
+	background-image: url("madeira1.jpg");
+    font-family: Tahoma, Geneva, sans-serif;
+}
+.Soft {
+    float: center;
+    margin: 0 0 0 45%;
+    width:165px;
+    border-radius: 5px;
+    background-color: #6B4724;
+}
+.top {
+    float: center;
+    margin: 30px 5% 0 5%;
+    padding: -10px;
+    width:1200px;
+    border-radius: 10px;
+	background-color: #6B4724;
+}
+.center {
+    float: center;
+    margin: 0 5% 0 5%;
+    width: 1000px;
+    border-radius: 10px;
+    padding: 100px;
+    background-color: #ffffff;
+}

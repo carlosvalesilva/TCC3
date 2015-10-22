@@ -1,0 +1,7 @@
+<resources>
+<Resource id="TestDS" type="DataSource">JdbcDriver  com.mysql.jdbc.Driver
+    JdbcUrl jdbc:mysql://localhost/video
+    UserName    root
+    Password    carlinhos
+    JtaManaged  true</Resource>
+</resources>
